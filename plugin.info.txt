@@ -1,0 +1,7 @@
+base   alainplugin
+author Alain Benbassat
+email  alain@businessandcode.eu
+date   2022-05-11
+name   alainplugin plugin
+desc   my custom stuff
+url    https://github.com/AlainBenbassat/alainplugin
